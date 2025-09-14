@@ -21,7 +21,7 @@
 
 <p align="center">
 <a href="https://ShiningDust.XYZ"><img src="https://img.shields.io/badge/Website-ShiningDust.XYZ-6a5acd?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-<a href="https://afdian.com/a/Shining_Dust"><img src="https://img.shields.io/badge/Afdian-Support-8a2be2?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Afdian"></a>
-<a href="https://t.me/Shining_Dust"><img src="https://img.shields.io/badge/Telegram-Chat-9370db?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="mailto:Shining_Dust@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-00bfff?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+<a href="https://afdian.com/a/Shining_Dust"><img src="https://img.shields.io/badge/Afdian-Support-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Afdian"></a>
+<a href="https://t.me/Shining_Dust"><img src="https://img.shields.io/badge/Telegram-Chat-1e90ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="mailto:Shining_Dust@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-00ffcc?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
 </p>
