@@ -7,7 +7,7 @@
 <tr>
   <!-- 头像 + 昵称 -->
   <td align="center" valign="bottom" width="160">
-    <a href="https://Flare-Dust.XYZ">
+    <a href="https://ShiningDust.XYZ">
       <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="头像" width="140" height="140" style="border-radius:50%;">
     </a>
     <div style="margin-top:5px;">
