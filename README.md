@@ -47,7 +47,7 @@
 
 ---
 
-<!-- 社交链接 -->
+<!--  社交链接  -->
 <p align="center">
   <a href="https://ShiningDust.XYZ"><img src="https://img.shields.io/badge/Website-ShiningDust.XYZ-6a5acd?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://afdian.com/a/Shining_Dust"><img src="https://img.shields.io/badge/Afdian-Support-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Afdian"></a>
