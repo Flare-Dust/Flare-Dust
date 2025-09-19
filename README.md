@@ -2,26 +2,29 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=欢迎来到Flare-Dust的主页;探索未来·代码与星辰" alt="Typing Effect">
 </p>
 
-<!-- 头像 + 卡片布局 -->
-<table align="center">
-<tr>
-<td align="center" width="180" valign="top">
-  <!-- 头像 -->
+<!-- 头像 + 昵称 -->
+<p align="center">
   <a href="https://github.com/Flare-Dust">
-    <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="Flare-Dust Avatar" width="150" height="150" style="border-radius:50%; box-shadow: 0 0 15px rgba(0,191,255,0.6);">
+    <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="Flare-Dust Avatar" width="150" style="border-radius:50%; box-shadow:0 0 15px rgba(0,191,255,0.6);">
   </a>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=180&lines=Flare-Dust" alt="Nickname">
-</td>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=200&lines=Flare-Dust" alt="Nickname">
+</p>
 
-<td align="center" width="450" valign="top">
-  <!-- GitHub 卡片 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Flare-Dust&theme=tokyonight&hide_border=true" width="420" height="150"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="420" height="150"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true" width="420" height="150">
-</td>
-</tr>
-</table>
+---
+
+<!-- GitHub 统计卡片 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true" height="150">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight" width="700">
+</p>
+
+---
 
 <!-- 访客计数器 -->
 <p align="center">
