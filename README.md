@@ -1,24 +1,23 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=欢迎来到Flare-Dust的主页;探索未来·代码与星辰" alt="Typing Effect">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=欢迎来到Flare-Dust的主页;探索未来·代码与星辰" alt="Typing Effect">
 </p>
 
-<!-- ===== 上半部分：头像 + Stats ===== -->
 <table align="center" cellpadding="0" cellspacing="0">
 <tr>
   <!-- 头像 + 昵称 -->
   <td align="center" valign="bottom" width="160">
-    <a href="https://Flare-Dust.XYZ">
+    <a href="https://ShiningDust.XYZ">
       <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="头像" width="140" height="140" style="border-radius:50%;">
     </a>
     <div style="margin-top:5px;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=DA70D6&center=true&vCenter=true&width=150&lines=Flare-Dust" alt="Nickname">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=40CFFF&center=true&vCenter=true&width=150&lines=Flare-Dust" alt="Nickname">
     </div>
   </td>
 
   <!-- GitHub Stats -->
   <td align="center" valign="bottom" width="330">
-    <img src="https://streak-stats.demolab.com/?user=Flare-Dust&theme=tokyonight&hide_border=true&stroke=DA70D6" width="320" height="130" alt="GitHub Streak"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&border_color=DA70D6&icon_color=DA70D6" width="320" height="130" alt="GitHub Stats">
+    <img src="https://streak-stats.demolab.com/?user=Flare-Dust&theme=tokyonight&hide_border=true&stroke=40CFFF" width="320" height="130" alt="GitHub Streak"><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&border_color=40CFFF&icon_color=40CFFF" width="320" height="130" alt="GitHub Stats">
   </td>
 </tr>
 </table>
@@ -37,20 +36,20 @@
 
 <!-- ===== Top Languages ===== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_color=DA70D6" width="320" height="170" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_color=40CFFF" width="320" height="170" alt="Top Langs">
 </p>
 
 <!-- ===== 活动图 ===== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flare-Dust&theme=tokyo-night&hide_border=true&area=true&color=DA70D6" width="90%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flare-Dust&theme=tokyo-night&hide_border=true&area=true&color=40CFFF" width="90%" alt="Activity Graph">
 </p>
 
 ---
 
 <!-- ===== 社交链接 ===== -->
 <p align="center">
-  <a href="https://ShiningDust.XYZ"><img src="https://img.shields.io/badge/Website-ShiningDust.XYZ-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://afdian.com/a/Shining_Dust"><img src="https://img.shields.io/badge/Afdian-Support-DA70D6?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Afdian"></a>
-  <a href="https://t.me/Shining_Dust"><img src="https://img.shields.io/badge/Telegram-Chat-BA55D3?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:Shining_Dust@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-EE82EE?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+  <a href="https://ShiningDust.XYZ"><img src="https://img.shields.io/badge/Website-ShiningDust.XYZ-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://afdian.com/a/Shining_Dust"><img src="https://img.shields.io/badge/Afdian-Support-40CFFF?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Afdian"></a>
+  <a href="https://t.me/Shining_Dust"><img src="https://img.shields.io/badge/Telegram-Chat-5AC8FF?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:Shining_Dust@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-7FDBFF?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
 </p>
