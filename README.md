@@ -3,22 +3,22 @@
 </p>
 
 <!-- 上半部分：头像 + 卡片 -->
-<table align="center" cellpadding="0" cellspacing="0">
+<table align="center" cellpadding="0" cellspacing="0" style="max-width:100%;">
 <tr>
   <!-- 头像 + 昵称 -->
-  <td align="center" valign="bottom" width="160">
+  <td align="center" valign="bottom" style="width:160px;">
     <a href="https://Flare-Dust.XYZ">
-      <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="头像" width="140" height="140" style="border-radius:50%;">
+      <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="头像" style="border-radius:50%; width:140px; height:140px;">
     </a>
     <div style="margin-top:5px;">
       <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=40CFFF&center=true&vCenter=true&width=150&lines=Flare-Dust" alt="Nickname">
     </div>
   </td>
 
-  <!-- Profile Details 卡片 + GitHub Stats -->
-  <td align="center" valign="bottom" width="330">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight" width="320" height="130" alt="Profile Details"><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&border_color=40CFFF&icon_color=40CFFF" width="320" height="130" alt="GitHub Stats">
+  <!-- Profile Overview + GitHub Stats -->
+  <td align="center" valign="bottom" style="width:330px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight" style="width:100%; max-width:320px; height:130px;" alt="Profile Overview"><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&border_color=40CFFF&icon_color=40CFFF" style="width:100%; max-width:320px; height:130px;" alt="GitHub Stats">
   </td>
 </tr>
 </table>
@@ -30,19 +30,19 @@
 
 ---
 
-<!-- Trophy 卡片 -->
+<!-- Trophy 成就卡片 -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Flare-Dust&theme=tokyonight&row=1&column=6&margin-w=5&margin-h=5&rank=-C-" alt="Trophy" width="95%">
+  <img src="https://github-profile-trophy.vercel.app/?username=Flare-Dust&theme=tokyonight&row=1&column=6&margin-w=5&margin-h=5&rank=-C-" style="width:95%; max-width:100%;" alt="Trophy">
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_color=DA70D6" width="320" height="170" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_color=DA70D6" style="width:100%; max-width:320px; height:170px;" alt="Top Languages">
 </p>
 
 <!-- 活动图 -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flare-Dust&theme=tokyo-night&hide_border=true&area=true&color=DA70D6" width="90%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flare-Dust&theme=tokyo-night&hide_border=true&area=true&color=DA70D6" style="width:90%; max-width:100%;" alt="Activity Graph">
 </p>
 
 ---
