@@ -5,30 +5,35 @@
 <!-- 头像 + 昵称 -->
 <p align="center">
   <a href="https://github.com/Flare-Dust">
-    <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="Flare-Dust Avatar" width="150" style="border-radius:50%; box-shadow:0 0 15px rgba(0,191,255,0.6);">
+    <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="Flare-Dust Avatar" width="140" style="border-radius:50%; box-shadow:0 0 12px rgba(106,90,205,0.6);">
   </a>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=200&lines=Flare-Dust" alt="Nickname">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=6a5acd&center=true&vCenter=true&width=180&lines=Flare-Dust" alt="Nickname">
 </p>
 
 ---
 
-<!-- GitHub 统计卡片 -->
+<!-- GitHub 统计卡片 横排 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="320" height="130" style="margin-right:10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true" width="320" height="130">
 </p>
 
+<!-- Profile Details -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight" width="700">
 </p>
 
----
-
 <!-- GitHub 成就奖杯 -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Flare-Dust&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="Trophies">
+</p>
+
+<!-- Snake 贡献图 -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Flare-Dust&theme=react-dark&hide_border=true" width="700" alt="Contribution Graph">
 </p>
 
 ---
