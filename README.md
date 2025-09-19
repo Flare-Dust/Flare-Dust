@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=欢迎来到Flare-Dust的主页;探索未来·代码与星辰" alt="Typing Effect">
 </p>
 
-<!-- ===== 上半部分：头像 + Stats ===== -->
+<!-- ===== 上半部分：头像 + 卡片 ===== -->
 <table align="center" cellpadding="0" cellspacing="0">
 <tr>
   <!-- 头像 + 昵称 -->
@@ -15,10 +15,10 @@
     </div>
   </td>
 
-  <!-- GitHub Stats + Streak -->
+  <!-- GitHub Rank + Stats -->
   <td align="center" valign="bottom" width="330">
-    <!-- GitHub Streak（稳定版） -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flare-Dust&theme=dark&hide_border=true&stroke=DA70D6" width="320" height="130" alt="GitHub Streak"><br>
+    <!-- GitHub Rank / Profile Details -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight" width="320" height="130" alt="GitHub Rank"><br>
     <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&border_color=40CFFF&icon_color=40CFFF" width="320" height="130" alt="GitHub Stats">
   </td>
