@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=6a5acd&center=true&vCenter=true&width=900&lines=欢迎来到Flare-Dust的主页;探索未来·代码与星辰" alt="Typing Effect">
 </p>
 
-<!-- 顶部：左侧头像块，右侧三张卡片 -->
+<!-- 顶部：左侧头像+名字，右侧三张卡片 -->
 <p align="center" style="margin-bottom:12px;">
 
   <!-- 左侧：头像 + 名字 -->
