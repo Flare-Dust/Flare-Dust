@@ -2,20 +2,20 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=6a5acd&center=true&vCenter=true&width=700&lines=欢迎来到Flare-Dust的主页;探索未来·代码与星辰" alt="Typing Effect">
 </p>
 
-<!-- 顶部仪表盘 -->
+<!-- 顶部头像 + 横向卡片仪表盘 -->
 <p align="center" style="margin-bottom:8px;">
   <!-- 左侧头像 + 昵称 -->
   <span style="display:inline-block; vertical-align:top; text-align:center; margin-right:12px;">
-    <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="Flare-Dust Avatar" width="120" style="border-radius:50%; box-shadow:0 0 12px rgba(106,90,205,0.6);">
+    <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="Flare-Dust Avatar" width="120" style="border-radius:50%; box-shadow:0 0 12px rgba(106,90,205,0.5);">
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=120&lines=Flare-Dust" alt="Nickname" style="margin-top:4px;">
   </span>
 
   <!-- 右侧三张卡片横向排列 -->
   <span style="display:inline-block; vertical-align:top;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="180" style="margin-right:6px; vertical-align:top;" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true" width="180" style="margin-right:6px; vertical-align:top;" alt="Top Languages">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight" width="180" style="vertical-align:top;" alt="Profile Details">
+    <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="180" style="margin-right:6px; display:inline-block; vertical-align:top;" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true" width="180" style="margin-right:6px; display:inline-block; vertical-align:top;" alt="Top Languages">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight" width="180" style="display:inline-block; vertical-align:top;" alt="Profile Details">
   </span>
 </p>
 
