@@ -17,23 +17,23 @@
 
 <!-- GitHub 统计卡片 横排 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="320" height="130" style="margin-right:10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true" width="320" height="130">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="310" height="130" style="margin-right:10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true" width="310" height="130">
 </p>
 
 <!-- Profile Details -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight" width="700">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight" width="700" style="margin-top:10px; margin-bottom:10px;">
 </p>
 
 <!-- GitHub 成就奖杯 -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Flare-Dust&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Flare-Dust&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" alt="Trophies" style="margin-bottom:10px;">
 </p>
 
 <!-- Snake 贡献图 -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Flare-Dust&theme=react-dark&hide_border=true" width="700" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Flare-Dust&theme=react-dark&area=true&hide_border=true" width="700" alt="Snake Contribution Graph" style="margin-bottom:10px;">
 </p>
 
 ---
