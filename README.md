@@ -26,6 +26,13 @@
 
 ---
 
+<!-- GitHub 成就奖杯 -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Flare-Dust&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="Trophies">
+</p>
+
+---
+
 <!-- 访客计数器 -->
 <p align="center">
   <img src="https://count.getloli.com/@Flare-Dust?name=Flare-Dust&theme=morden-num&padding=9&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count">
