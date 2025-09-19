@@ -40,7 +40,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flare-Dust&theme=tokyo-night&hide_border=true&area=true&color=DA70D6" style="display:block; width:90%; max-width:100%;" alt="Activity Graph">
 </p>
 
-<!-- Profile Details -->
+<!-- Profile Details 卡片 -->
 <p align="center" style="margin:2px 0;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight" 
        style="display:block; width:100%; max-width:320px; margin:0 auto;" alt="Profile Details">
