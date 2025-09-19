@@ -1,4 +1,4 @@
-<p align="center" style="margin:0 0 4px 0;">
+<p align="center" style="margin:0 0 2px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=欢迎来到Flare-Dust的主页;探索未来·代码与星辰" alt="Typing Effect" style="display:block; margin:0 auto; max-width:100%;">
 </p>
 
@@ -10,7 +10,7 @@
     <a href="https://ShiningDust.XYZ" style="display:block;">
       <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="头像" width="150" height="150" style="border-radius:50%; display:block; max-width:100%;">
     </a>
-    <div style="margin-top:1px;">
+    <div style="margin-top:0px;">
       <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=40CFFF&center=true&vCenter=true&width=150&lines=Flare-Dust" alt="Nickname" style="display:block; max-width:100%;">
     </div>
   </td>
