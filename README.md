@@ -6,17 +6,17 @@
 <table align="center" cellpadding="0" cellspacing="0" style="margin:0 auto; width:100%; max-width:500px;">
 <tr>
   <!-- 头像 + 昵称 -->
-  <td align="center" valign="bottom" width="160" style="padding:0 2px;">
+  <td align="center" valign="top" width="160" style="padding:0 2px;">
     <a href="https://ShiningDust.XYZ" style="display:block;">
       <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="头像" width="150" height="150" style="border-radius:50%; display:block; max-width:100%;">
     </a>
-    <div style="margin-top:0px;">
+    <div style="margin-top:2px;">
       <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=40CFFF&center=true&vCenter=true&width=150&lines=Flare-Dust" alt="Nickname" style="display:block; max-width:100%;">
     </div>
   </td>
 
   <!-- Top Languages 卡片 + GitHub Stats -->
-  <td align="center" valign="bottom" width="330" style="padding:0 2px;">
+  <td align="center" valign="top" width="330" style="padding:0 2px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_color=DA70D6" width="320" height="145" alt="Top Languages" style="display:block; margin-bottom:2px; max-width:100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&border_color=40CFFF&icon_color=40CFFF" width="320" height="145" alt="GitHub Stats" style="display:block; max-width:100%;">
   </td>
