@@ -3,15 +3,17 @@
 </p>
 
 <!-- 上半部分：头像 + 卡片 -->
-<table align="center" cellpadding="0" cellspacing="0" style="margin:0 auto; width:100%; max-width:500px;">
+<table align="center" cellpadding="0" cellspacing="0" style="margin:0 auto; width:100%; max-width:500px; table-layout:fixed;">
 <tr>
   <!-- 头像 + 昵称 -->
-  <td align="center" valign="top" width="160" style="padding:2px 0;">
-    <a href="https://ShiningDust.XYZ" style="display:block; width:100%;">
-      <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="头像" style="border-radius:50%; display:block; width:100%; max-width:150px; margin:0 auto;">
-    </a>
-    <div style="margin-top:4px; width:100%; text-align:center;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=40CFFF&center=true&vCenter=true&width=150&lines=Flare-Dust" alt="Nickname" style="display:block; width:auto; max-width:150px; margin:0 auto;">
+  <td align="center" valign="middle" width="160" style="padding:0; height:100%;">
+    <div style="display:flex; flex-direction:column; justify-content:center; align-items:center; height:100%;">
+      <a href="https://ShiningDust.XYZ" style="display:block;">
+        <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="头像" style="border-radius:50%; width:140px; height:140px; display:block;">
+      </a>
+      <div style="margin-top:4px; text-align:center;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=40CFFF&center=true&vCenter=true&width=150&lines=Flare-Dust" alt="Nickname" style="display:block; width:auto; max-width:150px;">
+      </div>
     </div>
   </td>
 
