@@ -1,29 +1,26 @@
-<p align="center" style="margin-bottom:8px;">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=6a5acd&center=true&vCenter=true&width=700&lines=欢迎来到Flare-Dust的主页;探索未来·代码与星辰" alt="Typing Effect">
 </p>
 
-<!-- 头像 + 卡片并列（table 保证 GitHub 渲染时 PC 横排，手机端堆叠） -->
-<table align="center" cellpadding="6" cellspacing="10">
-  <tr>
-    <!-- 左侧：头像 + 昵称（紧凑） -->
-    <td align="center" valign="top" width="160">
-      <a href="https://github.com/Flare-Dust" title="Flare-Dust">
-        <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="Flare-Dust Avatar" width="140" style="border-radius:50%; box-shadow:0 0 10px rgba(106,90,205,0.45);">
-      </a>
-      <br>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=140&lines=Flare-Dust" alt="Nickname" style="margin-top:6px;">
-    </td>
+<!-- 顶部头像 + 卡片横排 -->
+<p align="center">
+  <!-- 左侧头像 -->
+  <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="Flare-Dust Avatar" width="120" style="border-radius:50%; box-shadow:0 0 10px rgba(106,90,205,0.5); display:inline-block; vertical-align:top; margin-right:12px;">
+  
+  <!-- 右侧卡片 -->
+  <span style="display:inline-block; vertical-align:top;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="280" style="display:block; margin-bottom:6px;" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true" width="280" style="display:block; margin-bottom:6px;" alt="Top Languages">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight" width="280" style="display:block;" alt="Profile Details">
+  </span>
+</p>
 
-    <!-- 右侧：三张卡片垂直堆叠（宽度统一、紧凑） -->
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" width="300" height="120" style="display:block; margin-bottom:8px;" alt="GitHub Stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true" width="300" height="120" style="display:block; margin-bottom:8px;" alt="Top Languages">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight" width="300" height="120" style="display:block;" alt="Profile Details">
-    </td>
-  </tr>
-</table>
+<!-- 昵称 -->
+<p align="center" style="margin-top:6px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=140&lines=Flare-Dust" alt="Nickname">
+</p>
 
-<!-- 成就奖杯（独占一行，紧凑高度） -->
+<!-- 成就奖杯 -->
 <p align="center" style="margin:10px 0 6px 0;">
   <img src="https://github-profile-trophy.vercel.app/?username=Flare-Dust&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=6&margin-h=6" alt="Trophies">
 </p>
@@ -33,7 +30,7 @@
   <img src="https://count.getloli.com/@Flare-Dust?name=Flare-Dust&theme=morden-num&padding=6&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count">
 </p>
 
-<!-- 社交徽章（保持你原有链接与顺序） -->
+<!-- 社交徽章 -->
 <p align="center" style="margin-bottom:12px;">
   <a href="https://ShiningDust.XYZ"><img src="https://img.shields.io/badge/Website-ShiningDust.XYZ-6a5acd?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://afdian.com/a/Shining_Dust"><img src="https://img.shields.io/badge/Afdian-Support-ff69b4?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Afdian"></a>
