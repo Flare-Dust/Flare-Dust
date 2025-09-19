@@ -15,19 +15,22 @@
     </div>
   </td>
 
-  <!-- 右侧卡片 -->
+  <!-- 右侧卡片（我只替换了下面两条链接） -->
   <td align="center" valign="bottom" width="330" style="padding:0 4px;">
-    <!-- Profile Details -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight"
-         width="320" height="135" alt="Profile Details" style="display:block; margin-bottom:4px;" />
+    <!-- Profile Details (替换为 vercel 域 + cacheSeconds 提示更稳) -->
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight&cacheSeconds=86400"
+      width="320" height="135" alt="Profile Details" style="display:block; margin-bottom:4px;" />
 
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&border_color=40CFFF&icon_color=40CFFF"
-         width="320" height="135" alt="GitHub Stats" style="display:block; margin-bottom:2px;" />
+    <!-- GitHub Stats (使用 vercel.app endpoint，带 cacheSeconds) -->
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&border_color=40CFFF&icon_color=40CFFF&cacheSeconds=86400"
+      width="320" height="135" alt="GitHub Stats" style="display:block; margin-bottom:2px;" />
 
-    <!-- Top Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_color=DA70D6"
-         width="320" height="150" alt="Top Languages" style="display:block; margin-bottom:2px;" />
+    <!-- Top Languages 保持不动 -->
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_color=DA70D6"
+      width="320" height="150" alt="Top Languages" style="display:block; margin-bottom:2px;" />
   </td>
 </tr>
 </table>
