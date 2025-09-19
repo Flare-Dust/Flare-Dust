@@ -6,46 +6,46 @@
 <table align="center" cellpadding="0" cellspacing="0" style="margin:0 auto; width:100%; max-width:500px;">
 <tr>
   <!-- 头像 + 昵称 -->
-  <td align="center" valign="top" width="160" style="padding:4px 2px;"> <!-- 上下留白对称 -->
-    <a href="https://ShiningDust.XYZ" style="display:block;">
-      <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="头像" width="150" height="150" style="border-radius:50%; display:block; max-width:100%;">
+  <td align="center" valign="top" width="160" style="padding:0;">
+    <a href="https://ShiningDust.XYZ" style="display:block; width:100%; height:100%;">
+      <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="头像" style="border-radius:50%; display:block; width:100%; height:auto; max-width:150px; margin:0 auto;">
     </a>
-    <div style="margin-top:6px;"> <!-- 头像和昵称间适当间距 -->
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=40CFFF&center=true&vCenter=true&width=150&lines=Flare-Dust" alt="Nickname" style="display:block; max-width:100%;">
+    <div style="margin-top:6px; width:100%; text-align:center;">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1000&color=40CFFF&center=true&vCenter=true&width=100%&lines=Flare-Dust" alt="Nickname" style="display:block; width:100%; max-width:150px; margin:0 auto;">
     </div>
   </td>
 
   <!-- Top Languages 卡片 + GitHub Stats -->
-  <td align="center" valign="top" width="330" style="padding:2px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_color=DA70D6" width="320" height="140" alt="Top Languages" style="display:block; margin-bottom:2px; max-width:100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&border_color=40CFFF&icon_color=40CFFF" width="320" height="140" alt="GitHub Stats" style="display:block; max-width:100%;">
+  <td align="center" valign="top" width="330" style="padding:0;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_color=DA70D6" style="width:100%; height:auto; max-width:320px; display:block; margin-bottom:2px;" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&border_color=40CFFF&icon_color=40CFFF" style="width:100%; height:auto; max-width:320px; display:block;" alt="GitHub Stats">
   </td>
 </tr>
 </table>
 
 <!-- 访客计数器 -->
-<p align="center" style="margin:3px 0;">
-  <img src="https://count.getloli.com/@Flare-Dust?name=Flare-Dust&theme=morden-num&padding=9&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" style="display:block; max-width:100%;">
+<p align="center" style="margin:2px 0;">
+  <img src="https://count.getloli.com/@Flare-Dust?name=Flare-Dust&theme=morden-num&padding=9&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Visitor Count" style="display:block; width:100%; max-width:100%;">
 </p>
 
 <!-- Trophy 卡片 -->
-<p align="center" style="margin:3px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Flare-Dust&theme=tokyonight&row=1&column=6&margin-w=5&margin-h=5&rank=-C-" alt="Trophy" width="95%" style="display:block; max-width:100%;">
+<p align="center" style="margin:2px 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Flare-Dust&theme=tokyonight&row=1&column=6&margin-w=5&margin-h=5&rank=-C-" alt="Trophy" style="display:block; width:100%; max-width:95%;">
 </p>
 
 <!-- Profile Details -->
-<p align="center" style="margin:3px 0;">
+<p align="center" style="margin:2px 0;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight" 
-       width="320" height="150" alt="Profile Details" style="display:block; margin:0 auto; max-width:100%;">
+       style="display:block; width:100%; max-width:320px; margin:0 auto;" alt="Profile Details">
 </p>
 
 <!-- 活动图 -->
-<p align="center" style="margin:3px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flare-Dust&theme=tokyo-night&hide_border=true&area=true&color=DA70D6" width="90%" alt="Activity Graph" style="display:block; max-width:100%;">
+<p align="center" style="margin:2px 0;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flare-Dust&theme=tokyo-night&hide_border=true&area=true&color=DA70D6" style="display:block; width:90%; max-width:100%;" alt="Activity Graph">
 </p>
 
 <!-- 社交链接 -->
-<p align="center" style="margin:3px 0; display:flex; flex-wrap:wrap; justify-content:center; gap:6px;">
+<p align="center" style="margin:2px 0; display:flex; flex-wrap:wrap; justify-content:center; gap:6px;">
   <a href="https://ShiningDust.XYZ">
     <img src="https://img.shields.io/badge/Website-ShiningDust.XYZ-5A4FCF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
