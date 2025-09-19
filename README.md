@@ -2,11 +2,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=欢迎来到Flare-Dust的主页;探索未来·代码与星辰" alt="Typing Effect">
 </p>
 
+<!-- ===== 上半部分：头像 + Stats ===== -->
 <table align="center" cellpadding="0" cellspacing="0">
 <tr>
   <!-- 头像 + 昵称 -->
   <td align="center" valign="bottom" width="160">
-    <a href="https://ShiningDust.XYZ">
+    <a href="https://Flare-Dust.XYZ">
       <img src="https://avatars.githubusercontent.com/Flare-Dust" alt="头像" width="140" height="140" style="border-radius:50%;">
     </a>
     <div style="margin-top:5px;">
@@ -14,9 +15,11 @@
     </div>
   </td>
 
-  <!-- GitHub Stats -->
+  <!-- GitHub Stats + Streak -->
   <td align="center" valign="bottom" width="330">
-    <img src="https://streak-stats.demolab.com/?user=Flare-Dust&theme=tokyonight&hide_border=true&stroke=40CFFF" width="320" height="130" alt="GitHub Streak"><br>
+    <!-- GitHub Streak（稳定版） -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flare-Dust&theme=dark&hide_border=true&stroke=DA70D6" width="320" height="130" alt="GitHub Streak"><br>
+    <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&border_color=40CFFF&icon_color=40CFFF" width="320" height="130" alt="GitHub Stats">
   </td>
 </tr>
@@ -36,12 +39,12 @@
 
 <!-- ===== Top Languages ===== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_color=40CFFF" width="320" height="170" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flare-Dust&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_color=DA70D6" width="320" height="170" alt="Top Languages">
 </p>
 
 <!-- ===== 活动图 ===== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flare-Dust&theme=tokyo-night&hide_border=true&area=true&color=40CFFF" width="90%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flare-Dust&theme=tokyo-night&hide_border=true&area=true&color=DA70D6" width="90%" alt="Activity Graph">
 </p>
 
 ---
