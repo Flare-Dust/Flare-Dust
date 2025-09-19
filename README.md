@@ -15,9 +15,9 @@
     </div>
   </td>
 
-  <!-- 替代 Streak 卡片 + GitHub Stats -->
+  <!-- Profile Details 卡片 + GitHub Stats -->
   <td align="center" valign="bottom" width="330">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Flare-Dust&theme=tokyonight" width="320" height="130" alt="Repo Language Stats"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flare-Dust&theme=tokyonight" width="320" height="130" alt="Profile Details"><br>
     <img src="https://github-readme-stats.vercel.app/api?username=Flare-Dust&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&border_color=40CFFF&icon_color=40CFFF" width="320" height="130" alt="GitHub Stats">
   </td>
 </tr>
